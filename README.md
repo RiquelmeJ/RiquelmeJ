@@ -1,6 +1,6 @@
 ##### README (PT-BR)
 # Olá, eu sou o Riquelme!
-Tenho 20 anos, sou estudante de Ciência da Computação na Universidade Federal do Cariri. Atualmente, estudo desenvolvimento web e UI/UX. Também posto alguns projetos no Instagram. Seja bem-vindo. :)
+Tenho 21 anos, sou estudante de Ciência da Computação na Universidade Federal do Cariri. Atualmente, estudo desenvolvimento web e UI/UX. Também posto alguns projetos no Instagram. Seja bem-vindo. :)
 
 ##### README (EN)
 # Hello, I'm Riquelme!
