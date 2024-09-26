@@ -6,7 +6,7 @@ Tenho 21 anos, sou estudante de Ciência da Computação na Universidade Federal
 # Hello, I'm Riquelme!
 I'm 21 years old and a Computer Science student at the Federal University of Cariri. Currently, I'm studying web development and UI/UX. I also share some projects on Instagram. Welcome. :)
 
-<h2 align="center">Conecte-se comigo!
+<h2 align="center">Conecte-se comigo! </h2>
 <p align="center">
   <br>
 <a href="https://github.com/RiquelmeJ"><img align="center" src="https://i.ibb.co/5vKQZSb/github.png" alt="github" border="0"></a>
