@@ -1,10 +1,10 @@
 ##### README (PT-BR)
 # Olá, eu sou o Riquelme! 👋
-Tenho 21 anos, sou estudante de Ciência da Computação na Universidade Federal do Cariri. Atualmente, estudo ciência de dados e engenharia de software. Também posto alguns projetos no Instagram e aqui. Seja bem-vindo. :)
+Tenho 22 anos, sou estudante de Ciência da Computação na Universidade Federal do Cariri. Atualmente, estudo ciência de dados e engenharia de software. Também posto alguns projetos no Instagram e aqui. Seja bem-vindo. :)
 
 ##### README (EN)
 # Hello, I'm Riquelme! 👋
-I am 21 years old, I am a Computer Science student at the Federal University of Cariri. Currently, I study data science and software engineering. I also post some projects on Instagram and here. Welcome. :)
+I am 22 years old, I am a Computer Science student at the Federal University of Cariri. Currently, I study data science and software engineering. I also post some projects on Instagram and here. Welcome. :)
 
 <h2 align="center">Conecte-se comigo/Connect with me :) </h2>
 <p align="center">
